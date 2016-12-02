@@ -20,5 +20,6 @@ PrivateSpecs是个人cocoapods私库搭建的ios私有仓库
 # 3.项目引用说明
 在Podfile文件中添加一下内容：
 
-source 'https://github.com/CocoaPods/Specs.git'  
 source 'https://github.com/liuzewen/PrivateSpecs.git' 
+source 'https://github.com/CocoaPods/Specs.git'  
+
